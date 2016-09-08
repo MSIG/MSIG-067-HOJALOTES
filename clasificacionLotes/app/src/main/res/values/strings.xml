@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Cosecha Mecanizada</string>
+
+    <string name="indice.text.formulario">Llenar formulario</string>
+    <string name="indice.text.ver_datos">Ver datos</string>
+    <string name="indice.text.enviar_servidor">Enviar a Central</string>
+    <string name="indice.text.eliminar_local">Eliminar del movil</string>
+
+    <string name="abc_statusEnviando">Espere un momento mientras los datos se envian...</string>
+
+    <string name="abc_menu_config">Configuración</string>
+    <string name="abc_menu_pond_obstaculos">Actualizar Listado de Obstáculos</string>
+    <string name="abc_menu_pond_cirucito_transporte">Actualizar Listado de Circuito Transporte</string>
+    <string name="abc_menu_pond_partidores_pantes">Actualizar Listado Partidores/Pantes</string>
+    <string name="abc_menu_pond_trasiego_plano">Actualizar Listado de Trasiego Plano</string>
+    <string name="abc_menu_pond_tipo_suelo">Actualizar Listados de Suelo</string>
+    <string name="abc_menu_pond_cantidad_piedra">Actualizar Listado de Piedras/Lote</string>
+    <string name="abc_menu_pond_porcentaje">Actualizar Porcentajes de Ponderaciones</string>
+    <string name="abc_menu_pond_clasificacion">Actualizar Clasificación de Ponderaciones</string>
+    <string name="abc_menu_listado_fincas">Actualizar Listado de Fincas</string>
+    <string name="abc_menu_listado_pond_tons_surco">Actualizar Listado de Ponderacion Tons/Surco</string>
+    <string name="lbl_config_serv">Servidor</string>
+    <string name="lbl_config_system">Sistema</string>
+    <string name="lbl_config_save">Guardar</string>
+
+    <string name="lbl_formulario_finca">Finca</string>
+    <string name="lbl_formulario_lote">Lote</string>
+    <string name="lbl_formulario_finca_lote">Finca/Lote</string>
+    <string name="lbl_formulario_desc_finca">Desc. Finca</string>
+    <string name="lbl_formulario_dist_siembra">Dist. Siembra</string>
+    <string name="lbl_formulario_TCH">TCH</string>
+    <string name="lbl_formulario_longitudsurco">Logitud de Surco</string>
+    <string name="lbl_formulario_tons_surco">Tons/Surco</string>
+    <string name="lbl_formulario_pond1">Pond</string>
+    <string name="lbl_formulario_ronda4lados">Ronda cuatro lados</string>
+    <string name="lbl_formulario_pond2">Pond</string>
+    <string name="lbl_formulario_pres_obtaculos">#Presencia de obstáculos(Quineles, Infraestructura Gris, Rumas)</string>
+    <string name="lbl_formulario_pres_obtaculos2">#Pres. obstáculos</string>
+    <string name="lbl_formulario_pond3">Pond</string>
+    <string name="lbl_formulario_circuitotransporte">Circuito de Transporte</string>
+    <string name="lbl_formulario_pond4">Pond</string>
+    <string name="lbl_formulario_partidores">Partidores/Pantes (rondas intermedias)</string>
+    <string name="lbl_formulario_partidores2">Partidores/Pantes</string>
+    <string name="lbl_formulario_pond5">Pond</string>
+    <string name="lbl_formulario_porc_pendiente">% Pendiente</string>
+    <string name="lbl_formulario_pond6">Pond</string>
+    <string name="lbl_formulario_trasiego">Trasiego Plano (trasiego adecuado)</string>
+    <string name="lbl_formulario_trasiego2">Trasiego Plano</string>
+    <string name="lbl_formulario_pond7">Pond</string>
+    <string name="lbl_formulario_tiposuelo">Tipo de Suelo</string>
+    <string name="lbl_formulario_pond8">Pond</string>
+    <string name="lbl_formulario_piedras_lote">#Piedras/Lote</string>
+    <string name="lbl_formulario_pond9">Pond</string>
+    <string name="lbl_formulario_desnivel">Desnivel del Surco con la ronda (cms)</string>
+    <string name="lbl_formulario_desnivel2">Desnivel surco</string>
+    <string name="lbl_formulario_pond10">Pond</string>
+    <string name="lbl_formulario_total">Total</string>
+    <string name="lbl_formulario_clas_sugerida">Clas_Sugerida</string>
+    <string name="lbl_formulario_nombresupervisor">Nombre Supervisor</string>
+    <string name="lbl_formulario_mecanizable">%Mecanizable</string>
+    <string name="lbl_formulario_ha">Ha</string>
+    <string name="lbl_formulario_total2">Total</string>
+
+    <string name="lbl_formulario_btnagregar">Agregar Detalle</string>
+    <string name="lbl_formulario_btnactualizar">Actualizar Detalle</string>
+</resources>

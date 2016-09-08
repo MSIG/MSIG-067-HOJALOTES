@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:gravity="center|top">
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="240dp"
+            android:layout_height="65dp"
+            android:text="@string/indice.text.formulario"
+            android:id="@+id/btn_indice_nuevoformulario"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="#0c2709"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="240dp"
+            android:layout_height="65dp"
+            android:text="@string/indice.text.enviar_servidor"
+            android:id="@+id/btn_indice_guardarservidor"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="#0c2709"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="240dp"
+            android:layout_height="65dp"
+            android:text="@string/indice.text.ver_datos"
+            android:id="@+id/btn_indice_verdatos"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="#0c2709"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:visibility="gone"
+            android:shadowRadius="5" />
+    </TableRow>
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="240dp"
+            android:layout_height="65dp"
+            android:text="@string/indice.text.eliminar_local"
+            android:id="@+id/btn_indice_eliminarlocal"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="#0c2709"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5" />
+    </TableRow>
+</LinearLayout>
